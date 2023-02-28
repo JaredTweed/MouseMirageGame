@@ -1,3 +1,9 @@
+## How this game was made
+
+I made this game with a couple other guys. I almost entirely programmed the menu screens, and programmed a significant portion of most other sections. However, although I programmed the essence of the main character's movement and its interaction with walls, I did not at all program the character animations, and did not create any of the game art. 
+
+## How to run the game
+
 Thank you for checking out Mouse Mirage follow these steps to play the game
 1. Install Maven if you do not have it on your computer
 2. Clone the repository onto your computer
