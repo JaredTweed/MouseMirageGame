@@ -2,6 +2,18 @@
 
 I made this game with a couple other guys. I almost entirely programmed the menu screens, and programmed a significant portion of most other sections. However, although I programmed the essence of the main character's movement and its interaction with walls, I did not at all program the character animations, and did not create any of the game art. 
 
+## Mouse Mirage Screenshots
+
+![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/75321ebf-e306-47e6-a713-1b765736532d)
+![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/6a0eae48-9fb7-42a6-87aa-fd86276f2366)
+![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/1739b087-d5ed-4859-b5a1-c1522a1f939c)
+![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/6b654177-44ac-426f-9936-70582f87eff8)
+![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/494a99a2-d1bb-44ea-a71b-e4877a23ae02)
+
+
+
+
+
 ## How to run the game
 
 Thank you for checking out Mouse Mirage follow these steps to play the game
