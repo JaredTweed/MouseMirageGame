@@ -1,5 +1,5 @@
-## Java, Maven, Swing Based Game, CMPT276, SFU, Feb-Mar 2022.
+## Java with Maven Game, CMPT276, Feb-April 2022.
 https://github.com/JaredTweed/MouseMirageGame
-* Led the development of Mouse Mirage, a Java-based game, showcasing expertise in object-oriented programming and Maven for build management.
-* Developed a Java Swing-based interactive game interface with custom rendering and event handling in Mouse Mirage.
-* Engineered game mechanics in Java, including level progression, sound control, and UI navigation, demonstrating advanced programming skills.
+* Led Mouse Mirage's Java development, exhibiting proficiency in object-oriented design and Maven.
+* Created Mouse Mirage's Java Swing interface, featuring custom graphics and interactive event handling.
+* Designed mechanics, including level progression, sound management, and UI navigation.
