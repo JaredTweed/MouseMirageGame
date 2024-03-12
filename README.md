@@ -1,8 +1,12 @@
-## How this game was made
+### How this game was made
 
 I made this game with a couple other guys. I almost entirely programmed the menu screens, and programmed a significant portion of most other sections. However, although I programmed the essence of the main character's movement and its interaction with walls, I did not at all program the character animations, and did not create any of the game art. 
 
-## Mouse Mirage Screenshots
+### How to play the game
+
+Download the [Mouse-Mirage.exe](https://raw.githubusercontent.com/JaredTreed/MouseMirageGame/main/Mouse-Mirage.exe) and double click it to play it.
+
+### Mouse Mirage Screenshots
 
 ![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/75321ebf-e306-47e6-a713-1b765736532d)
 ![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/6a0eae48-9fb7-42a6-87aa-fd86276f2366)
@@ -11,10 +15,8 @@ I made this game with a couple other guys. I almost entirely programmed the menu
 ![image](https://github.com/JaredTweed/MouseMirageGame/assets/59375645/494a99a2-d1bb-44ea-a71b-e4877a23ae02)
 
 
-
-
-
-## How to run the game
+<!--
+## How to run the game from the .jar file
 
 Thank you for checking out Mouse Mirage follow these steps to play the game
 1. Install Maven if you do not have it on your computer
@@ -59,3 +61,4 @@ in this example I installed maven in my applications folder but the exact path m
 If you have trouble finding and automatical updating your environment PATH variable
 manually change by Executing: "export PATH="Applications/apache-maven-3.8.4/bin:$PATH"" in terminal
 verify with: "mvn --version"
+-->
