@@ -4,7 +4,7 @@ I made this game with a couple other guys. I almost entirely programmed the menu
 
 ### How to play the game
 
-Download the [Mouse-Mirage.exe](https://raw.githubusercontent.com/JaredTreed/MouseMirageGame/main/Mouse-Mirage.exe) and double click it to play it.
+Download the [Mouse-Mirage.exe](https://raw.githubusercontent.com/JaredTweed/MouseMirageGame/main/Mouse-Mirage.exe) and double click it to play it.
 
 ### Mouse Mirage Screenshots
 
