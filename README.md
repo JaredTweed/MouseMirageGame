@@ -4,7 +4,9 @@ I made this game with a couple other guys. I almost entirely programmed the menu
 
 ### How to play the game
 
-Download the [Mouse-Mirage.exe](https://raw.githubusercontent.com/JaredTweed/MouseMirageGame/main/Mouse-Mirage.exe) and double click it to play it.
+If on Windows, download the [Mouse-Mirage.exe](https://raw.githubusercontent.com/JaredTweed/MouseMirageGame/main/Mouse-Mirage.exe) and double click it to play it.
+
+If on Linux, install OpenJDK (e.g., `sudo dnf install java-17-openjdk` or  `sudo apt install openjdk-17-jre`), then download the [Mouse-Mirage.jar](https://raw.githubusercontent.com/JaredTweed/MouseMirageGame/main/Mouse-Mirage.jar), and run it by typing `java -jar Mouse-Mirage.jar` in the terminal.
 
 ### Mouse Mirage Screenshots
 
